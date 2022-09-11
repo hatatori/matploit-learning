@@ -1,0 +1,30 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  /* box-shadow: 0px 0px 3px #00000055; */
+}
+
+input {
+  margin: 1em;
+  width: 80%;
+}
+
+.square {
+  width: 640px;
+  height: 480px;
+  overflow: auto;
+  overflow-x: hidden;
+  margin: 1em;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.square img {
+  height: 100%;
+}
+
+.shadow {
+  box-shadow: 0px 0px 3px #00000055;
+}
