@@ -1,4 +1,4 @@
-Execute o comando
+Execute os comandos
 `pip install matplotlib`
 `pip install numpy`
 `python ok.py`
