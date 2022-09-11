@@ -13,8 +13,7 @@ input {
 .square {
   width: 640px;
   height: 480px;
-  overflow: auto;
-  overflow-x: hidden;
+  overflow: hidden;
   margin: 1em;
   display: flex;
   flex-direction: row;
