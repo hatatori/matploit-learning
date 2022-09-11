@@ -13,11 +13,12 @@ input {
 .square {
   width: 640px;
   height: 480px;
-  overflow: hidden;
+  
   margin: 1em;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  overflow: hidden;
 }
 
 .square img {
